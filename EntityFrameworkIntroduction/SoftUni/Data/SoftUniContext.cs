@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using Microsoft.EntityFrameworkCore;
-using Microsoft.EntityFrameworkCore.Metadata;
+﻿using Microsoft.EntityFrameworkCore;
 using SoftUni.Models;
 
 namespace SoftUni.Data
@@ -16,12 +13,13 @@ namespace SoftUni.Data
             : base(options)
         {
         }
-        //khthk
+
         public virtual DbSet<Address> Addresses { get; set; } = null!;
         public virtual DbSet<Department> Departments { get; set; } = null!;
         public virtual DbSet<Employee> Employees { get; set; } = null!;
         public virtual DbSet<Project> Projects { get; set; } = null!;
         public virtual DbSet<Town> Towns { get; set; } = null!;
+        public virtual DbSet<EmployeeProject> EmployeesProjects { get; set; } = null!;
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
@@ -113,22 +111,7 @@ namespace SoftUni.Data
                     .HasForeignKey(d => d.ManagerId)
                     .HasConstraintName("FK_Employees_Employees");
 
-                entity.HasMany(d => d.Projects)
-                    .WithMany(p => p.Employees)
-                    .UsingEntity<Dictionary<string, object>>(
-                        "EmployeesProject",
-                        l => l.HasOne<Project>().WithMany().HasForeignKey("ProjectId").OnDelete(DeleteBehavior.ClientSetNull).HasConstraintName("FK_EmployeesProjects_Projects"),
-                        r => r.HasOne<Employee>().WithMany().HasForeignKey("EmployeeId").OnDelete(DeleteBehavior.ClientSetNull).HasConstraintName("FK_EmployeesProjects_Employees"),
-                        j =>
-                        {
-                            j.HasKey("EmployeeId", "ProjectId");
-
-                            j.ToTable("EmployeesProjects");
-
-                            j.IndexerProperty<int>("EmployeeId").HasColumnName("EmployeeID");
-
-                            j.IndexerProperty<int>("ProjectId").HasColumnName("ProjectID");
-                        });
+      
             });
 
             modelBuilder.Entity<Project>(entity =>
@@ -157,23 +140,24 @@ namespace SoftUni.Data
 
             modelBuilder.Entity<EmployeeProject>(entity =>
             {
-                //Composite Key
+                // Composite key
                 entity.HasKey(pk => new { pk.EmployeeId, pk.ProjectId });
 
-                // Configure Foreign Keys
+                // Configure Foreign keys
                 entity.HasOne(ep => ep.Employee)
-                    .WithMany(e => e.EmployeesProjects)
-                    .HasForeignKey(ep => ep.EmployeeId);
+                .WithMany(e => e.EmployeesProjects)
+                .HasForeignKey(ep => ep.EmployeeId);
 
                 entity.HasOne(ep => ep.Project)
-                    .WithMany(p => p.EmployeesProjects)
-                    .HasForeignKey(ep => ep.EmployeeId);
+                .WithMany(p => p.EmployeesProjects)
+                .HasForeignKey(ep => ep.ProjectId);
             });
                 
 
-
             OnModelCreatingPartial(modelBuilder);
         }
+
+        
 
         partial void OnModelCreatingPartial(ModelBuilder modelBuilder);
     }
