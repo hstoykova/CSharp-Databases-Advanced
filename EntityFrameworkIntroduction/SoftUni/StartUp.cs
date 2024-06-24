@@ -12,19 +12,22 @@ namespace SoftUni
         {
             //03.Employees Full Information
             SoftUniContext context = new SoftUniContext();
-            Console.WriteLine(GetEmployeesFullInformation(context));
+            //Console.WriteLine(GetEmployeesFullInformation(context));
 
             //04.Employees with Salary Over 50 000
-            Console.WriteLine(GetEmployeesWithSalaryOver50000(context));
+            //Console.WriteLine(GetEmployeesWithSalaryOver50000(context));
 
             //05.Employees from Research and Development
-            Console.WriteLine(GetEmployeesFromResearchAndDevelopment(context));
+            //Console.WriteLine(GetEmployeesFromResearchAndDevelopment(context));
 
             //06.Adding a New Address and Updating Employee
-            Console.WriteLine(AddNewAddressToEmployee(context));
+            //Console.WriteLine(AddNewAddressToEmployee(context));
 
             //07.Employees and Projects
-            Console.WriteLine(GetEmployeesInPeriod(context));
+            //Console.WriteLine(GetEmployeesInPeriod(context));
+
+            //08.Addresses by Town
+            Console.WriteLine(GetAddressesByTown(context));
 
         }
 
@@ -169,6 +172,31 @@ namespace SoftUni
                     }
 
                 }
+            }
+
+            return sb.ToString().TrimEnd();
+        }
+
+        //08
+        public static string GetAddressesByTown(SoftUniContext context)
+        {
+            var addresses = context.Addresses
+                .Take(10)
+                .Select(a => new
+                {
+                    a.AddressText,
+                    TownName = a.Town.Name,
+                    EmployeeCount = a.Employees.Count()
+                })
+                .OrderByDescending(t => t.EmployeeCount)
+                .ThenBy(tn => tn.TownName)
+                .ThenBy(at => at.AddressText);
+
+            StringBuilder sb = new StringBuilder();
+
+            foreach (var a in addresses)
+            {
+                sb.AppendLine($"{a.AddressText}, {a.TownName} - {a.EmployeeCount} employees");
             }
 
             return sb.ToString().TrimEnd();
