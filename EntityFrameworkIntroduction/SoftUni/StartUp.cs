@@ -1,5 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using SoftUni.Data;
+using SoftUni.Models;
 using System.Text;
 using static Microsoft.EntityFrameworkCore.DbLoggerCategory.Database;
 
@@ -18,6 +19,10 @@ namespace SoftUni
 
             //05.Employees from Research and Development
             Console.WriteLine(GetEmployeesFromResearchAndDevelopment(context));
+
+            //06.Adding a New Address and Updating Employee
+            Console.WriteLine(AddNewAddressToEmployee(context));
+
         }
 
         //03
@@ -97,6 +102,33 @@ namespace SoftUni
             }
 
             return sb.ToString().TrimEnd();
+        }
+
+        //06
+        public static string AddNewAddressToEmployee(SoftUniContext context)
+        {
+            Address newAddress = new Address()
+            {
+                AddressText = "Vitoshka 15",
+                TownId = 4
+            };
+
+            var nakov = context.Employees
+                .FirstOrDefault(e => e.LastName == "Nakov");
+
+            if (nakov != null)
+            {
+                nakov.Address = newAddress;
+                context.SaveChanges();
+            }
+
+            var employees = context.Employees
+                .OrderByDescending(e => e.AddressId)
+                .Take(10)
+                .Select(e => e.Address.AddressText)
+                .ToList();
+
+            return string.Join(Environment.NewLine, employees);
         }
     }
 }
