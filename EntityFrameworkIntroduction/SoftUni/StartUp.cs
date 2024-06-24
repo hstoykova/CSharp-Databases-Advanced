@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Primitives;
 using SoftUni.Data;
 using SoftUni.Models;
 using System.Text;
@@ -27,8 +28,10 @@ namespace SoftUni
             //Console.WriteLine(GetEmployeesInPeriod(context));
 
             //08.Addresses by Town
-            Console.WriteLine(GetAddressesByTown(context));
+            //Console.WriteLine(GetAddressesByTown(context));
 
+            //09.Employee 147
+            Console.WriteLine(GetEmployee147(context));
         }
 
         //03
@@ -202,5 +205,32 @@ namespace SoftUni
             return sb.ToString().TrimEnd();
         }
 
+        //09
+        public static string GetEmployee147(SoftUniContext context)
+        {
+            var e = context.Employees
+                .Select(e => new
+                {
+                    e.FirstName,
+                    e.LastName,
+                    e.JobTitle,
+                    e.EmployeesProjects,
+                    Project = e.EmployeesProjects.Select(p => p.Project),
+                    e.EmployeeId
+                })
+                .FirstOrDefault(e => e.EmployeeId == 147);
+
+            StringBuilder sb = new StringBuilder();
+
+            
+                sb.AppendLine($"{e.FirstName} {e.LastName} - {e.JobTitle}");
+
+                foreach (var ep in e.Project.OrderBy(p => p.Name))
+                {
+                    sb.AppendLine(ep.Name);
+                }
+
+            return sb.ToString().TrimEnd();
+        }
     }
 }
