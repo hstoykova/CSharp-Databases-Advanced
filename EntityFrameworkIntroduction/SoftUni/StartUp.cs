@@ -1,7 +1,9 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Primitives;
+using Microsoft.VisualBasic;
 using SoftUni.Data;
 using SoftUni.Models;
+using System.Linq;
 using System.Text;
 using static Microsoft.EntityFrameworkCore.DbLoggerCategory.Database;
 
@@ -37,7 +39,10 @@ namespace SoftUni
             //Console.WriteLine(GetDepartmentsWithMoreThan5Employees(context));
 
             //11.Find Latest 10 Projects
-            Console.WriteLine(GetLatestProjects(context));
+            //Console.WriteLine(GetLatestProjects(context));
+
+            //12.Increase Salaries
+            Console.WriteLine(IncreaseSalaries(context));
 
         }
 
@@ -302,6 +307,46 @@ namespace SoftUni
                 sb.AppendLine($"{p.Name}");
                 sb.AppendLine($"{p.Description}");
                 sb.AppendLine($"{p.StartDate.ToString("M/d/yyyy h:mm:ss tt")}");
+            }
+
+            return sb.ToString().TrimEnd();
+        }
+
+        //12
+        public static string IncreaseSalaries(SoftUniContext context)
+        {
+            string[] searchedDept = {"Engineering", "Tool Design", "Marketing", "Information Services"};
+
+            var departments = context.Departments
+                .Where(d => d.Name == "Engineering" || d.Name == "Tool Design" || 
+                d.Name == "Marketing" || d.Name == "Information Services")
+                .ToList();
+
+            foreach (var employee in context.Employees.Where(em => searchedDept.Contains(em.Department.Name)))
+            {
+                employee.Salary *= 1.12m;
+            }
+
+                context.SaveChanges();
+             
+            var employees = context.Employees
+             .Where(e => searchedDept.Contains(e.Department.Name))
+             .OrderBy(e => e.FirstName)
+             .ThenBy(e => e.LastName)
+             .Select(e => new
+             {
+                 e.FirstName,
+                 e.LastName,
+                 e.Salary
+             })
+             .ToList();
+
+            StringBuilder sb = new StringBuilder();
+
+            foreach (var e in employees)
+            {
+                 sb.AppendLine($"{e.FirstName} {e.LastName} (${e.Salary:F2})");
+                
             }
 
             return sb.ToString().TrimEnd();
