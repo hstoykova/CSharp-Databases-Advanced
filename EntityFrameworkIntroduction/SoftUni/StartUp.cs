@@ -44,8 +44,11 @@ namespace SoftUni
             //12.Increase Salaries
             //Console.WriteLine(IncreaseSalaries(context));
 
-            //13. Find Employees by First Name Starting With Sa
-            Console.WriteLine(GetEmployeesByFirstNameStartingWithSa(context));
+            //13.Find Employees by First Name Starting With Sa
+            //Console.WriteLine(GetEmployeesByFirstNameStartingWithSa(context));
+
+            //14.Delete Project by Id
+            Console.WriteLine(DeleteProjectById(context));
 
         }
 
@@ -116,8 +119,8 @@ namespace SoftUni
                 .Where(e => e.Department.Name == "Research and Development")
                 .OrderBy(e => e.Salary)
                 .ThenByDescending(e => e.FirstName)
-                .ToList() ;
-            
+                .ToList();
+
             StringBuilder sb = new StringBuilder();
 
             foreach (var e in employees)
@@ -167,10 +170,11 @@ namespace SoftUni
                     Projects = e.EmployeesProjects
                         .Where(ep => ep.Project.StartDate.Year >= 2001 &&
                                      ep.Project.StartDate.Year <= 2003)
-                                     .Select(ep => new {
-                                        ProjectName = ep.Project.Name,
-                                        ep.Project.StartDate,
-                                            EndDate = ep.Project.EndDate.HasValue ? 
+                                     .Select(ep => new
+                                     {
+                                         ProjectName = ep.Project.Name,
+                                         ep.Project.StartDate,
+                                         EndDate = ep.Project.EndDate.HasValue ?
                                             ep.Project.EndDate.Value.ToString("M/d/yyyy h:mm:ss tt") :
                                             "not finished"
                                      })
@@ -237,13 +241,13 @@ namespace SoftUni
 
             StringBuilder sb = new StringBuilder();
 
-            
-                sb.AppendLine($"{e.FirstName} {e.LastName} - {e.JobTitle}");
 
-                foreach (var ep in e.Project.OrderBy(p => p.Name))
-                {
-                    sb.AppendLine(ep.Name);
-                }
+            sb.AppendLine($"{e.FirstName} {e.LastName} - {e.JobTitle}");
+
+            foreach (var ep in e.Project.OrderBy(p => p.Name))
+            {
+                sb.AppendLine(ep.Name);
+            }
 
             return sb.ToString().TrimEnd();
         }
@@ -284,7 +288,7 @@ namespace SoftUni
                     sb.AppendLine($"{e.FirstName} {e.LastName} - {e.JobTitle}");
                 }
             }
-                
+
             return sb.ToString().TrimEnd();
         }
 
@@ -318,7 +322,7 @@ namespace SoftUni
         //12
         public static string IncreaseSalaries(SoftUniContext context)
         {
-            string[] searchedDept = {"Engineering", "Tool Design", "Marketing", "Information Services"};
+            string[] searchedDept = { "Engineering", "Tool Design", "Marketing", "Information Services" };
 
             foreach (var employee in context.Employees.Where(em => searchedDept.Contains(em.Department.Name)))
             {
@@ -326,7 +330,7 @@ namespace SoftUni
             }
 
             context.SaveChanges();
-             
+
             var employees = context.Employees
              .Where(e => searchedDept.Contains(e.Department.Name))
              .OrderBy(e => e.FirstName)
@@ -343,7 +347,7 @@ namespace SoftUni
 
             foreach (var e in employees)
             {
-                 sb.AppendLine($"{e.FirstName} {e.LastName} (${e.Salary:F2})");
+                sb.AppendLine($"{e.FirstName} {e.LastName} (${e.Salary:F2})");
             }
 
             return sb.ToString().TrimEnd();
@@ -373,6 +377,31 @@ namespace SoftUni
             }
 
             return sb.ToString().TrimEnd();
+        }
+
+        //14
+        public static string DeleteProjectById(SoftUniContext context)
+        {
+            foreach (var ep in context.EmployeesProjects.Where(p => p.ProjectId == 2))
+            {
+                context.Remove(ep);
+            }
+
+            context.SaveChanges();
+
+            foreach (var project in context.Projects.Where(p => p.ProjectId == 2))
+            {
+                context.Remove(project);
+            }
+
+            context.SaveChanges();
+
+            var output = context.Projects
+               .Take(10)
+               .Select(pr => pr.Name)
+               .ToList();
+
+            return string.Join(System.Environment.NewLine, output);
         }
     }
 }
