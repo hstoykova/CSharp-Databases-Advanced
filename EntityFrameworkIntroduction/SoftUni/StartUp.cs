@@ -3,7 +3,9 @@ using Microsoft.Extensions.Primitives;
 using Microsoft.VisualBasic;
 using SoftUni.Data;
 using SoftUni.Models;
+using System.Diagnostics;
 using System.Linq;
+using System.Net;
 using System.Text;
 using static Microsoft.EntityFrameworkCore.DbLoggerCategory.Database;
 
@@ -48,7 +50,11 @@ namespace SoftUni
             //Console.WriteLine(GetEmployeesByFirstNameStartingWithSa(context));
 
             //14.Delete Project by Id
-            Console.WriteLine(DeleteProjectById(context));
+            //Console.WriteLine(DeleteProjectById(context));
+
+            //15.Remove Town
+            Console.WriteLine(RemoveTown(context));
+
 
         }
 
@@ -402,6 +408,31 @@ namespace SoftUni
                .ToList();
 
             return string.Join(System.Environment.NewLine, output);
+        }
+
+        //15
+        public static string RemoveTown(SoftUniContext context)
+        {
+            var townName = "Seattle";
+
+            var employees = context.Employees.Where(e => e.Address.Town.Name == townName);
+
+            foreach (var employee in employees)
+            {
+                employee.AddressId = null;
+            }
+
+            var addresses = context.Addresses.Where(a => a.Town.Name == townName);
+
+            int count = addresses.Count();
+
+            context.RemoveRange(addresses);
+
+            context.Remove(context.Towns.FirstOrDefault(t => t.Name == townName));
+
+            context.SaveChanges();
+
+            return $"{count} addresses in Seattle were deleted";
         }
     }
 }
