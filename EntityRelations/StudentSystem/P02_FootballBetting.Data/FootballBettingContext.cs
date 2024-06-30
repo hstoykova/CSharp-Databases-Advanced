@@ -5,6 +5,8 @@ namespace P02_FootballBetting.Data
 {
     public class FootballBettingContext : DbContext
     {
+        private const string ConnectionString = "Server=HRISI\\SQLEXPRESS;Database=FootballBetting;Integrated Security=True;";
+
         public FootballBettingContext()
         {
 
@@ -31,8 +33,7 @@ namespace P02_FootballBetting.Data
         {
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseSqlServer(
-                    Environment.GetEnvironmentVariable("ConnectionString", EnvironmentVariableTarget.User));
+                optionsBuilder.UseSqlServer(ConnectionString);
             }
 
         }

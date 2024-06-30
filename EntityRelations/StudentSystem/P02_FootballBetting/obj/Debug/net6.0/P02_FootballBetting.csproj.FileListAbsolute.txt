@@ -1,0 +1,15 @@
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Databases-Advanced\EntityRelations\StudentSystem\P02_FootballBetting\bin\Debug\net6.0\P02_FootballBetting.exe
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Databases-Advanced\EntityRelations\StudentSystem\P02_FootballBetting\bin\Debug\net6.0\P02_FootballBetting.deps.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Databases-Advanced\EntityRelations\StudentSystem\P02_FootballBetting\bin\Debug\net6.0\P02_FootballBetting.runtimeconfig.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Databases-Advanced\EntityRelations\StudentSystem\P02_FootballBetting\bin\Debug\net6.0\P02_FootballBetting.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Databases-Advanced\EntityRelations\StudentSystem\P02_FootballBetting\bin\Debug\net6.0\P02_FootballBetting.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Databases-Advanced\EntityRelations\StudentSystem\P02_FootballBetting\obj\Debug\net6.0\P02_FootballBetting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Databases-Advanced\EntityRelations\StudentSystem\P02_FootballBetting\obj\Debug\net6.0\P02_FootballBetting.AssemblyInfoInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Databases-Advanced\EntityRelations\StudentSystem\P02_FootballBetting\obj\Debug\net6.0\P02_FootballBetting.AssemblyInfo.cs
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Databases-Advanced\EntityRelations\StudentSystem\P02_FootballBetting\obj\Debug\net6.0\P02_FootballBetting.csproj.CoreCompileInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Databases-Advanced\EntityRelations\StudentSystem\P02_FootballBetting\obj\Debug\net6.0\P02_FootballBetting.sourcelink.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Databases-Advanced\EntityRelations\StudentSystem\P02_FootballBetting\obj\Debug\net6.0\P02_FootballBetting.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Databases-Advanced\EntityRelations\StudentSystem\P02_FootballBetting\obj\Debug\net6.0\refint\P02_FootballBetting.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Databases-Advanced\EntityRelations\StudentSystem\P02_FootballBetting\obj\Debug\net6.0\P02_FootballBetting.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Databases-Advanced\EntityRelations\StudentSystem\P02_FootballBetting\obj\Debug\net6.0\P02_FootballBetting.genruntimeconfig.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Databases-Advanced\EntityRelations\StudentSystem\P02_FootballBetting\obj\Debug\net6.0\ref\P02_FootballBetting.dll

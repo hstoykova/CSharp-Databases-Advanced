@@ -1,0 +1,12 @@
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Databases-Advanced\EntityRelations\StudentSystem\P02_FootballBetting.Common\bin\Debug\net6.0\P02_FootballBetting.Common.deps.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Databases-Advanced\EntityRelations\StudentSystem\P02_FootballBetting.Common\bin\Debug\net6.0\P02_FootballBetting.Common.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Databases-Advanced\EntityRelations\StudentSystem\P02_FootballBetting.Common\bin\Debug\net6.0\P02_FootballBetting.Common.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Databases-Advanced\EntityRelations\StudentSystem\P02_FootballBetting.Common\obj\Debug\net6.0\P02_FootballBetting.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Databases-Advanced\EntityRelations\StudentSystem\P02_FootballBetting.Common\obj\Debug\net6.0\P02_FootballBetting.Common.AssemblyInfoInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Databases-Advanced\EntityRelations\StudentSystem\P02_FootballBetting.Common\obj\Debug\net6.0\P02_FootballBetting.Common.AssemblyInfo.cs
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Databases-Advanced\EntityRelations\StudentSystem\P02_FootballBetting.Common\obj\Debug\net6.0\P02_FootballBetting.Common.csproj.CoreCompileInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Databases-Advanced\EntityRelations\StudentSystem\P02_FootballBetting.Common\obj\Debug\net6.0\P02_FootballBetting.Common.sourcelink.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Databases-Advanced\EntityRelations\StudentSystem\P02_FootballBetting.Common\obj\Debug\net6.0\P02_FootballBetting.Common.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Databases-Advanced\EntityRelations\StudentSystem\P02_FootballBetting.Common\obj\Debug\net6.0\refint\P02_FootballBetting.Common.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Databases-Advanced\EntityRelations\StudentSystem\P02_FootballBetting.Common\obj\Debug\net6.0\P02_FootballBetting.Common.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Databases-Advanced\EntityRelations\StudentSystem\P02_FootballBetting.Common\obj\Debug\net6.0\ref\P02_FootballBetting.Common.dll
