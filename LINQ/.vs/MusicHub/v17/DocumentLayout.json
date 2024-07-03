@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\LINQ\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3E5E9B19-7E38-43A2-83D8-0F2AF6C6A715}|MusicHub\\MusicHub.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-databases-advanced\\linq\\musichub\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E5E9B19-7E38-43A2-83D8-0F2AF6C6A715}|MusicHub\\MusicHub.csproj|solutionrelative:musichub\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3E5E9B19-7E38-43A2-83D8-0F2AF6C6A715}|MusicHub\\MusicHub.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-databases-advanced\\linq\\musichub\\data\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E5E9B19-7E38-43A2-83D8-0F2AF6C6A715}|MusicHub\\MusicHub.csproj|solutionrelative:musichub\\data\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -39,6 +43,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\LINQ\\MusicHub\\StartUp.cs",
+              "RelativeDocumentMoniker": "MusicHub\\StartUp.cs",
+              "ToolTip": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\LINQ\\MusicHub\\StartUp.cs",
+              "RelativeToolTip": "MusicHub\\StartUp.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAYwEkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T17:12:15.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Configuration.cs",
               "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\LINQ\\MusicHub\\Data\\Configuration.cs",
               "RelativeDocumentMoniker": "MusicHub\\Data\\Configuration.cs",
@@ -51,7 +68,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MusicHubDbContext.cs",
               "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\LINQ\\MusicHub\\Data\\MusicHubDbContext.cs",
               "RelativeDocumentMoniker": "MusicHub\\Data\\MusicHubDbContext.cs",
@@ -59,12 +76,11 @@
               "RelativeToolTip": "MusicHub\\Data\\MusicHubDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T08:09:49.341Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-01T08:09:49.341Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "SongPerformer.cs",
               "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\LINQ\\MusicHub\\Data\\Models\\SongPerformer.cs",
               "RelativeDocumentMoniker": "MusicHub\\Data\\Models\\SongPerformer.cs",
@@ -72,12 +88,11 @@
               "RelativeToolTip": "MusicHub\\Data\\Models\\SongPerformer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T07:58:43.942Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-01T07:58:43.942Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Performer.cs",
               "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\LINQ\\MusicHub\\Data\\Models\\Performer.cs",
               "RelativeDocumentMoniker": "MusicHub\\Data\\Models\\Performer.cs",
@@ -85,12 +100,11 @@
               "RelativeToolTip": "MusicHub\\Data\\Models\\Performer.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAAA0AAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T07:56:44.945Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-01T07:56:44.945Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Writer.cs",
               "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\LINQ\\MusicHub\\Data\\Models\\Writer.cs",
               "RelativeDocumentMoniker": "MusicHub\\Data\\Models\\Writer.cs",
@@ -98,12 +112,11 @@
               "RelativeToolTip": "MusicHub\\Data\\Models\\Writer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T07:53:47.359Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-01T07:53:47.359Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Song.cs",
               "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\LINQ\\MusicHub\\Data\\Models\\Song.cs",
               "RelativeDocumentMoniker": "MusicHub\\Data\\Models\\Song.cs",
@@ -111,8 +124,7 @@
               "RelativeToolTip": "MusicHub\\Data\\Models\\Song.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T07:31:18.349Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-01T07:31:18.349Z"
             }
           ]
         }
