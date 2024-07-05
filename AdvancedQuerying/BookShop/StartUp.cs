@@ -1,8 +1,10 @@
 ﻿namespace BookShop
 {
+    using BookShop.Models;
     using BookShop.Models.Enums;
     using Data;
     using Initializer;
+    using System.Globalization;
     using System.Linq;
     using System.Text;
 
@@ -13,7 +15,7 @@
             using var context = new BookShopContext();
             //DbInitializer.ResetDatabase(db);
 
-            Console.WriteLine(GetBooksByCategory(context, "horror mystery drama"));
+            Console.WriteLine(GetAuthorNamesEndingIn(context, "e"));
         }
 
         //02
@@ -89,6 +91,34 @@
                 .ToArray();
 
             return string.Join(Environment.NewLine, books);
+        }
+
+        //07
+        public static string GetBooksReleasedBefore(BookShopContext context, string date)
+        {
+            //dd-MM-yyyy
+
+            DateTime dt = DateTime.ParseExact(date, "dd-MM-yyyy", CultureInfo.InvariantCulture);
+
+            var books = context.Books
+                .Where(b => b.ReleaseDate < dt)
+                .OrderByDescending(b => b.ReleaseDate)
+                .Select(b => $"{b.Title} - {b.EditionType} - ${b.Price:F2}")
+                .ToArray();
+
+            return string.Join(Environment.NewLine, books);
+        }
+
+        //08
+        public static string GetAuthorNamesEndingIn(BookShopContext context, string input)
+        {
+            var authorsNames = context.Authors
+                .Where(n => n.FirstName.EndsWith(input))
+                .Select(n => $"{n.FirstName} {n.LastName}")
+                .ToArray()
+                .OrderBy(n => n);
+
+            return string.Join(Environment.NewLine, authorsNames);
         }
     }
 }
