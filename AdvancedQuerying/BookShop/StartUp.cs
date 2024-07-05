@@ -15,7 +15,7 @@
             using var context = new BookShopContext();
             //DbInitializer.ResetDatabase(db);
 
-            Console.WriteLine(GetAuthorNamesEndingIn(context, "e"));
+            Console.WriteLine(CountCopiesByAuthor(context));
         }
 
         //02
@@ -119,6 +119,54 @@
                 .OrderBy(n => n);
 
             return string.Join(Environment.NewLine, authorsNames);
+        }
+
+        //09
+        public static string GetBookTitlesContaining(BookShopContext context, string input)
+        {
+            string lowerInput = input.ToLower();
+
+            var searchedBooks = context.Books
+                .Where(b => b.Title.ToLower().Contains(lowerInput))
+                .Select(b => b.Title)
+                .OrderBy(b => b)
+                .ToArray();
+
+            return string.Join(Environment.NewLine, searchedBooks);
+        }
+
+        //10
+        public static string GetBooksByAuthor(BookShopContext context, string input)
+        {
+            var info = context.Books
+                .Where(b => b.Author.LastName.ToLower().StartsWith(input.ToLower()))
+                .Select(n => $"{n.Title} ({n.Author.FirstName} {n.Author.LastName})")
+                .ToArray();
+
+            return string.Join(Environment.NewLine, info);
+        }
+
+        //11
+        public static int CountBooks(BookShopContext context, int lengthCheck)
+        {
+            return context.Books
+                .Count(b => b.Title.Length > lengthCheck);
+        }
+
+        //12
+        public static string CountCopiesByAuthor(BookShopContext context)
+        {
+            var auth = context.Authors
+                .Select(a => new
+                {
+                    a.FirstName,
+                    a.LastName,
+                    Copies = a.Books.Sum(b => b.Copies)
+                })
+                .OrderByDescending(a => a.Copies)
+                .ToArray();
+
+            return string.Join(Environment.NewLine, auth.Select(ac => $"{ac.FirstName} {ac.LastName} - {ac.Copies}"));
         }
     }
 }
