@@ -15,7 +15,7 @@
             using var context = new BookShopContext();
             //DbInitializer.ResetDatabase(db);
 
-            Console.WriteLine(CountCopiesByAuthor(context));
+            RemoveBooks(context);
         }
 
         //02
@@ -167,6 +167,83 @@
                 .ToArray();
 
             return string.Join(Environment.NewLine, auth.Select(ac => $"{ac.FirstName} {ac.LastName} - {ac.Copies}"));
+        }
+
+        //13
+        public static string GetTotalProfitByCategory(BookShopContext context)
+        {
+            var categoriesProfit = context.Categories
+                .Select(c => new
+                {
+                    c.Name,
+                    Profit = c.CategoryBooks.
+                        Sum(cb => cb.Book.Price * cb.Book.Copies)
+                })
+                .OrderByDescending(c => c.Profit)
+                .ThenBy(c => c.Name)
+                .ToArray();
+
+            return string.Join(Environment.NewLine, categoriesProfit.Select(c => $"{c.Name} ${c.Profit:F2}"));
+        }
+
+        //14
+        public static string GetMostRecentBooks(BookShopContext context)
+        {
+            var categRecentBooks = context.Categories
+                .Select(c => new
+                {
+                    c.Name,
+                    MostRecentBooks = c.CategoryBooks
+                        .OrderByDescending(b => b.Book.ReleaseDate)
+                        .Take(3)
+                        .Select(b => $"{b.Book.Title} ({b.Book.ReleaseDate.Value.Year})")
+                })
+                .ToArray()
+                .OrderBy(c => c.Name)
+                .ToArray();
+
+            StringBuilder sb = new();
+
+            foreach (var category in categRecentBooks)
+            {
+                sb.AppendLine($"--{category.Name}");
+
+                foreach (var book in category.MostRecentBooks)
+                {
+                    sb.AppendLine(book);
+                }
+            }
+
+            return sb.ToString().TrimEnd();
+        }
+
+        //15
+        public static void IncreasePrices(BookShopContext context)
+        {
+            var books = context.Books
+                .Where(b => b.ReleaseDate.Value.Year < 2010)
+                .ToArray();
+
+            foreach (var b in books)
+            {
+                b.Price += 5;
+            }
+
+            context.SaveChanges();
+        }
+
+        //16
+        public static int RemoveBooks(BookShopContext context)
+        {
+            var books = context.Books.
+                Where(b => b.Copies < 4200)
+                .ToArray();
+
+            context.RemoveRange(books);
+
+            context.SaveChanges();
+
+            return books.Length;
         }
     }
 }
