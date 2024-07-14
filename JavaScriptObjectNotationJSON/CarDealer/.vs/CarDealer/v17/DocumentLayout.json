@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\JavaScriptObjectNotationJSON\\CarDealer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-databases-advanced\\javascriptobjectnotationjson\\cardealer\\cardealer\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-databases-advanced\\javascriptobjectnotationjson\\cardealer\\cardealer\\dtos\\import\\importcardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\dtos\\import\\importcardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-databases-advanced\\javascriptobjectnotationjson\\cardealer\\cardealer\\datasets\\parts.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\datasets\\parts.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\JavaScriptObjectNotationJSON\\CarDealer\\CarDealer\\Migrations\\20240714133521_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CarDealer\\Migrations\\20240714133521_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-databases-advanced\\javascriptobjectnotationjson\\cardealer\\cardealer\\data\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\data\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-databases-advanced\\javascriptobjectnotationjson\\cardealer\\cardealer\\cardealer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\cardealer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ImportCarDto.cs",
+              "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\JavaScriptObjectNotationJSON\\CarDealer\\CarDealer\\DTOs\\Import\\ImportCarDto.cs",
+              "RelativeDocumentMoniker": "CarDealer\\DTOs\\Import\\ImportCarDto.cs",
+              "ToolTip": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\JavaScriptObjectNotationJSON\\CarDealer\\CarDealer\\DTOs\\Import\\ImportCarDto.cs",
+              "RelativeToolTip": "CarDealer\\DTOs\\Import\\ImportCarDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T14:26:32.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "parts.json",
+              "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\JavaScriptObjectNotationJSON\\CarDealer\\CarDealer\\Datasets\\parts.json",
+              "RelativeDocumentMoniker": "CarDealer\\Datasets\\parts.json",
+              "ToolTip": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\JavaScriptObjectNotationJSON\\CarDealer\\CarDealer\\Datasets\\parts.json",
+              "RelativeToolTip": "CarDealer\\Datasets\\parts.json",
+              "ViewState": "AQIAAMkAAAAAAAAAAAAAAEQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-14T13:48:30.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\JavaScriptObjectNotationJSON\\CarDealer\\CarDealer\\StartUp.cs",
+              "RelativeDocumentMoniker": "CarDealer\\StartUp.cs",
+              "ToolTip": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\JavaScriptObjectNotationJSON\\CarDealer\\CarDealer\\StartUp.cs",
+              "RelativeToolTip": "CarDealer\\StartUp.cs",
+              "ViewState": "AQIAALwAAAAAAAAAAAAEwPYAAAB4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T13:35:00.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20240714133521_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\JavaScriptObjectNotationJSON\\CarDealer\\CarDealer\\Migrations\\20240714133521_Initial.cs",
+              "RelativeDocumentMoniker": "CarDealer\\Migrations\\20240714133521_Initial.cs",
+              "ToolTip": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\JavaScriptObjectNotationJSON\\CarDealer\\CarDealer\\Migrations\\20240714133521_Initial.cs",
+              "RelativeToolTip": "CarDealer\\Migrations\\20240714133521_Initial.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwCAAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T13:35:22.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\JavaScriptObjectNotationJSON\\CarDealer\\CarDealer\\Data\\Configuration.cs",
+              "RelativeDocumentMoniker": "CarDealer\\Data\\Configuration.cs",
+              "ToolTip": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\JavaScriptObjectNotationJSON\\CarDealer\\CarDealer\\Data\\Configuration.cs",
+              "RelativeToolTip": "CarDealer\\Data\\Configuration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T13:34:31.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CarDealer",
+              "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\JavaScriptObjectNotationJSON\\CarDealer\\CarDealer\\CarDealer.csproj",
+              "RelativeDocumentMoniker": "CarDealer\\CarDealer.csproj",
+              "ToolTip": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\JavaScriptObjectNotationJSON\\CarDealer\\CarDealer\\CarDealer.csproj",
+              "RelativeToolTip": "CarDealer\\CarDealer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-14T13:31:12.572Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
