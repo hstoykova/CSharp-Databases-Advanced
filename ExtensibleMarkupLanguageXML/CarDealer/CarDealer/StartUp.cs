@@ -47,7 +47,13 @@ namespace CarDealer
             //Console.WriteLine(GetLocalSuppliers(context));
 
             //17
+            //Console.WriteLine(GetCarsWithTheirListOfParts(context));
 
+            //18
+            //Console.WriteLine(GetTotalSalesByCustomer(context));
+
+            //19
+            Console.WriteLine(GetSalesWithAppliedDiscount(context));
 
         }
 
@@ -86,12 +92,12 @@ namespace CarDealer
                 parts = ((PartsDto[])xmlSerializer.Deserialize(reader))
                     .Where(p => context.Suppliers.Where(c => c.Id == p.SupplierId).Any())
                     .Select(dto => new Part
-                {
-                    Name = dto.Name,
-                    Price = dto.Price,
-                    Quantity = dto.Quantity,
-                    SupplierId = dto.SupplierId
-                })
+                    {
+                        Name = dto.Name,
+                        Price = dto.Price,
+                        Quantity = dto.Quantity,
+                        SupplierId = dto.SupplierId
+                    })
                 .ToArray();
 
                 context.Parts.AddRange(parts);
@@ -188,11 +194,11 @@ namespace CarDealer
                 sales = ((SalesDto[])xmlSerializer.Deserialize(reader))
                     .Where(c => carIds.Contains(c.CarId))
                     .Select(dto => new Sale
-                {
-                    CarId = dto.CarId,
-                    CustomerId = dto.CustomerId,
-                    Discount = dto.Discount
-                })
+                    {
+                        CarId = dto.CarId,
+                        CustomerId = dto.CustomerId,
+                        Discount = dto.Discount
+                    })
                 .ToArray();
 
                 context.Sales.AddRange(sales);
@@ -259,7 +265,78 @@ namespace CarDealer
         //17
         public static string GetCarsWithTheirListOfParts(CarDealerContext context)
         {
+            CarsWithTheirListOfPartsDto[] carsWithParts = context.Cars
+                .Select(c => new CarsWithTheirListOfPartsDto()
+                {
+                    Make = c.Make,
+                    Model = c.Model,
+                    TraveledDistance = c.TraveledDistance,
+                    parts = c.PartsCars.Select(p => new ListOfPartsDto()
+                    {
+                        Name = p.Part.Name,
+                        Price = p.Part.Price
+                    })
+                    .OrderByDescending(p => p.Price)
+                    .ToList()
+                })
+                .OrderByDescending(c => c.TraveledDistance)
+                .ThenBy(c => c.Model)
+                .Take(5)
+                .ToArray();
 
+            return SerializeToXml(carsWithParts, "cars");
+        }
+
+        //18
+        public static string GetTotalSalesByCustomer(CarDealerContext context)
+        {
+            var temp = context.Customers
+                .Where(c => c.Sales.Any())
+                .Select(c => new
+                {
+                    FullName = c.Name,
+                    BoughtCars = c.Sales.Count,
+                    SalesInfo = c.Sales.Select(s => new
+                    {
+                        Prices = c.IsYoungDriver
+                        ? s.Car.PartsCars.Sum(pc => Math.Round((double)pc.Part.Price * 0.95, 2))
+                        : s.Car.PartsCars.Sum(pc => (double)pc.Part.Price)
+                    }).ToArray()
+                }).ToArray();
+
+            var customerSalesInfo = temp
+                .OrderByDescending(x =>
+                    x.SalesInfo.Sum(y => y.Prices))
+                .Select(a => new TotalSalesByCustomerDto()
+                {
+                    Name = a.FullName,
+                    BoughtCars = a.BoughtCars,
+                    SpentMoney = a.SalesInfo.Sum(b => b.Prices).ToString("F2")
+                })
+                .ToArray();
+
+            return SerializeToXml(customerSalesInfo, "customers");
+        }
+
+        //19
+        // SalesWithAppliedDiscountDto
+        public static string GetSalesWithAppliedDiscount(CarDealerContext context)
+        {
+            SalesWithAppliedDiscountDto[] salesWithDiscount = context.Sales
+                .Select(s => new SalesWithAppliedDiscountDto() {
+                    Car = new CarsWithDistanceDto()
+                    {
+                        Make = s.Car.Make,
+                        Model = s.Car.Model,
+                        TraveledDistance = s.Car.TraveledDistance
+                    },
+                    Discount = (int)s.Discount,
+                    CustomerName = s.Customer.Name,
+                    Price = s.Car.PartsCars.Sum(pc => pc.Part.Price),
+                    PriceWithDiscount = Math.Round((double)(s.Car.PartsCars.Sum(pc => pc.Part.Price) * (1 - s.Discount / 100)), 4)
+                })
+                .ToArray();
+            return SerializeToXml(salesWithDiscount, "sales");
         }
 
         //XML export template

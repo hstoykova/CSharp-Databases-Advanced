@@ -19,5 +19,8 @@ namespace CarDealer.DTOs.Export
         [XmlAttribute("traveled-distance")]
         public long TraveledDistance { get; set; }
 
+        //[XmlElement("parts")]
+        public List<ListOfPartsDto> parts { get; set; } = new List<ListOfPartsDto>();
+
     }
 }
