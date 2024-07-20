@@ -7,52 +7,16 @@
       "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-databases-advanced\\extensiblemarkuplanguagexml\\cardealer\\cardealer\\datasets\\cars.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\datasets\\cars.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-databases-advanced\\extensiblemarkuplanguagexml\\cardealer\\cardealer\\dtos\\export\\listofpartsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\dtos\\export\\listofpartsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-databases-advanced\\extensiblemarkuplanguagexml\\cardealer\\cardealer\\dtos\\export\\carswithmakedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\dtos\\export\\carswithmakedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-databases-advanced\\extensiblemarkuplanguagexml\\cardealer\\cardealer\\dtos\\export\\carswiththeirlistofpartsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\dtos\\export\\carswiththeirlistofpartsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-databases-advanced\\extensiblemarkuplanguagexml\\cardealer\\cardealer\\dtos\\export\\carswithdistancedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\dtos\\export\\carswithdistancedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-databases-advanced\\extensiblemarkuplanguagexml\\cardealer\\cardealer\\dtos\\import\\carsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\dtos\\import\\carsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-databases-advanced\\extensiblemarkuplanguagexml\\cardealer\\cardealer\\dtos\\import\\suppliersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\dtos\\import\\suppliersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-databases-advanced\\extensiblemarkuplanguagexml\\cardealer\\cardealer\\dtos\\import\\salesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\dtos\\import\\salesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-databases-advanced\\extensiblemarkuplanguagexml\\cardealer\\cardealer\\datasets\\parts.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\datasets\\parts.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-databases-advanced\\extensiblemarkuplanguagexml\\cardealer\\cardealer\\dtos\\import\\customersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\dtos\\import\\customersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-databases-advanced\\extensiblemarkuplanguagexml\\cardealer\\cardealer\\dtos\\import\\partsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\dtos\\import\\partsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-databases-advanced\\extensiblemarkuplanguagexml\\cardealer\\cardealer\\dtos\\import\\partscarsimportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\dtos\\import\\partscarsimportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-databases-advanced\\extensiblemarkuplanguagexml\\cardealer\\cardealer\\data\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\data\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-databases-advanced\\extensiblemarkuplanguagexml\\cardealer\\cardealer\\migrations\\20240717164613_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\migrations\\20240717164613_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-databases-advanced\\extensiblemarkuplanguagexml\\cardealer\\cardealer\\dtos\\export\\localsuppliersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\dtos\\export\\localsuppliersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,136 +26,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CarsWithMakeDto.cs",
-              "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\ExtensibleMarkupLanguageXML\\CarDealer\\CarDealer\\DTOs\\Export\\CarsWithMakeDto.cs",
-              "RelativeDocumentMoniker": "CarDealer\\DTOs\\Export\\CarsWithMakeDto.cs",
-              "ToolTip": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\ExtensibleMarkupLanguageXML\\CarDealer\\CarDealer\\DTOs\\Export\\CarsWithMakeDto.cs",
-              "RelativeToolTip": "CarDealer\\DTOs\\Export\\CarsWithMakeDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAMAAAA",
+              "DocumentIndex": 1,
+              "Title": "ListOfPartsDto.cs",
+              "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\ExtensibleMarkupLanguageXML\\CarDealer\\CarDealer\\DTOs\\Export\\ListOfPartsDto.cs",
+              "RelativeDocumentMoniker": "CarDealer\\DTOs\\Export\\ListOfPartsDto.cs",
+              "ToolTip": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\ExtensibleMarkupLanguageXML\\CarDealer\\CarDealer\\DTOs\\Export\\ListOfPartsDto.cs",
+              "RelativeToolTip": "CarDealer\\DTOs\\Export\\ListOfPartsDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-18T19:14:11.607Z",
+              "WhenOpened": "2024-07-20T05:48:02.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CarsWithTheirListOfPartsDto.cs",
+              "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\ExtensibleMarkupLanguageXML\\CarDealer\\CarDealer\\DTOs\\Export\\CarsWithTheirListOfPartsDto.cs",
+              "RelativeDocumentMoniker": "CarDealer\\DTOs\\Export\\CarsWithTheirListOfPartsDto.cs",
+              "ToolTip": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\ExtensibleMarkupLanguageXML\\CarDealer\\CarDealer\\DTOs\\Export\\CarsWithTheirListOfPartsDto.cs",
+              "RelativeToolTip": "CarDealer\\DTOs\\Export\\CarsWithTheirListOfPartsDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T05:40:50.216Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "CarsWithDistanceDto.cs",
-              "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\ExtensibleMarkupLanguageXML\\CarDealer\\CarDealer\\DTOs\\Export\\CarsWithDistanceDto.cs",
-              "RelativeDocumentMoniker": "CarDealer\\DTOs\\Export\\CarsWithDistanceDto.cs",
-              "ToolTip": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\ExtensibleMarkupLanguageXML\\CarDealer\\CarDealer\\DTOs\\Export\\CarsWithDistanceDto.cs",
-              "RelativeToolTip": "CarDealer\\DTOs\\Export\\CarsWithDistanceDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAyAAAA",
+              "Title": "LocalSuppliersDto.cs",
+              "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\ExtensibleMarkupLanguageXML\\CarDealer\\CarDealer\\DTOs\\Export\\LocalSuppliersDto.cs",
+              "RelativeDocumentMoniker": "CarDealer\\DTOs\\Export\\LocalSuppliersDto.cs",
+              "ToolTip": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\ExtensibleMarkupLanguageXML\\CarDealer\\CarDealer\\DTOs\\Export\\LocalSuppliersDto.cs",
+              "RelativeToolTip": "CarDealer\\DTOs\\Export\\LocalSuppliersDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-18T19:01:26.879Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "SalesDto.cs",
-              "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\ExtensibleMarkupLanguageXML\\CarDealer\\CarDealer\\DTOs\\Import\\SalesDto.cs",
-              "RelativeDocumentMoniker": "CarDealer\\DTOs\\Import\\SalesDto.cs",
-              "ToolTip": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\ExtensibleMarkupLanguageXML\\CarDealer\\CarDealer\\DTOs\\Import\\SalesDto.cs",
-              "RelativeToolTip": "CarDealer\\DTOs\\Import\\SalesDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-18T18:20:10.638Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CustomersDto.cs",
-              "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\ExtensibleMarkupLanguageXML\\CarDealer\\CarDealer\\DTOs\\Import\\CustomersDto.cs",
-              "RelativeDocumentMoniker": "CarDealer\\DTOs\\Import\\CustomersDto.cs",
-              "ToolTip": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\ExtensibleMarkupLanguageXML\\CarDealer\\CarDealer\\DTOs\\Import\\CustomersDto.cs",
-              "RelativeToolTip": "CarDealer\\DTOs\\Import\\CustomersDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-18T05:37:43.772Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "PartsCarsImportDto.cs",
-              "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\ExtensibleMarkupLanguageXML\\CarDealer\\CarDealer\\DTOs\\Import\\PartsCarsImportDto.cs",
-              "RelativeDocumentMoniker": "CarDealer\\DTOs\\Import\\PartsCarsImportDto.cs",
-              "ToolTip": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\ExtensibleMarkupLanguageXML\\CarDealer\\CarDealer\\DTOs\\Import\\PartsCarsImportDto.cs",
-              "RelativeToolTip": "CarDealer\\DTOs\\Import\\PartsCarsImportDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-17T17:44:52.02Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CarsDto.cs",
-              "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\ExtensibleMarkupLanguageXML\\CarDealer\\CarDealer\\DTOs\\Import\\CarsDto.cs",
-              "RelativeDocumentMoniker": "CarDealer\\DTOs\\Import\\CarsDto.cs",
-              "ToolTip": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\ExtensibleMarkupLanguageXML\\CarDealer\\CarDealer\\DTOs\\Import\\CarsDto.cs",
-              "RelativeToolTip": "CarDealer\\DTOs\\Import\\CarsDto.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-17T17:34:03.656Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "cars.xml",
-              "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\ExtensibleMarkupLanguageXML\\CarDealer\\CarDealer\\Datasets\\cars.xml",
-              "RelativeDocumentMoniker": "CarDealer\\Datasets\\cars.xml",
-              "ToolTip": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\ExtensibleMarkupLanguageXML\\CarDealer\\CarDealer\\Datasets\\cars.xml",
-              "RelativeToolTip": "CarDealer\\Datasets\\cars.xml",
-              "ViewState": "AQIAAJAAAAAAAAAAAAAAAKQAAAALAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2024-07-17T17:32:20.8Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "parts.xml",
-              "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\ExtensibleMarkupLanguageXML\\CarDealer\\CarDealer\\Datasets\\parts.xml",
-              "RelativeDocumentMoniker": "CarDealer\\Datasets\\parts.xml",
-              "ToolTip": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\ExtensibleMarkupLanguageXML\\CarDealer\\CarDealer\\Datasets\\parts.xml",
-              "RelativeToolTip": "CarDealer\\Datasets\\parts.xml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2024-07-17T17:16:53.3Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "PartsDto.cs",
-              "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\ExtensibleMarkupLanguageXML\\CarDealer\\CarDealer\\DTOs\\Import\\PartsDto.cs",
-              "RelativeDocumentMoniker": "CarDealer\\DTOs\\Import\\PartsDto.cs",
-              "ToolTip": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\ExtensibleMarkupLanguageXML\\CarDealer\\CarDealer\\DTOs\\Import\\PartsDto.cs",
-              "RelativeToolTip": "CarDealer\\DTOs\\Import\\PartsDto.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAAAAkAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-17T17:18:03.814Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "SuppliersDto.cs",
-              "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\ExtensibleMarkupLanguageXML\\CarDealer\\CarDealer\\DTOs\\Import\\SuppliersDto.cs",
-              "RelativeDocumentMoniker": "CarDealer\\DTOs\\Import\\SuppliersDto.cs",
-              "ToolTip": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\ExtensibleMarkupLanguageXML\\CarDealer\\CarDealer\\DTOs\\Import\\SuppliersDto.cs",
-              "RelativeToolTip": "CarDealer\\DTOs\\Import\\SuppliersDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-17T16:50:47.697Z",
+              "WhenOpened": "2024-07-20T05:21:22.649Z",
               "EditorCaption": ""
             },
             {
@@ -202,34 +75,10 @@
               "RelativeDocumentMoniker": "CarDealer\\StartUp.cs",
               "ToolTip": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\ExtensibleMarkupLanguageXML\\CarDealer\\CarDealer\\StartUp.cs",
               "RelativeToolTip": "CarDealer\\StartUp.cs",
-              "ViewState": "AQIAANgAAAAAAAAAAAAuwOcAAAAbAAAA",
+              "ViewState": "AQIAAN8AAAAAAAAAAAAqwAUBAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-17T16:47:43.89Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "20240717164613_Initial.cs",
-              "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\ExtensibleMarkupLanguageXML\\CarDealer\\CarDealer\\Migrations\\20240717164613_Initial.cs",
-              "RelativeDocumentMoniker": "CarDealer\\Migrations\\20240717164613_Initial.cs",
-              "ToolTip": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\ExtensibleMarkupLanguageXML\\CarDealer\\CarDealer\\Migrations\\20240717164613_Initial.cs",
-              "RelativeToolTip": "CarDealer\\Migrations\\20240717164613_Initial.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-17T16:46:14.284Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Configuration.cs",
-              "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\ExtensibleMarkupLanguageXML\\CarDealer\\CarDealer\\Data\\Configuration.cs",
-              "RelativeDocumentMoniker": "CarDealer\\Data\\Configuration.cs",
-              "ToolTip": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\ExtensibleMarkupLanguageXML\\CarDealer\\CarDealer\\Data\\Configuration.cs",
-              "RelativeToolTip": "CarDealer\\Data\\Configuration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-17T16:44:04.199Z"
             }
           ]
         }

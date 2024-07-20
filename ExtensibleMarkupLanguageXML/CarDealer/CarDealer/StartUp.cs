@@ -41,7 +41,13 @@ namespace CarDealer
             //Console.WriteLine(GetCarsWithDistance(context));
 
             //15
-            Console.WriteLine(GetCarsFromMakeBmw(context));
+            //Console.WriteLine(GetCarsFromMakeBmw(context));
+
+            //16
+            //Console.WriteLine(GetLocalSuppliers(context));
+
+            //17
+
 
         }
 
@@ -217,8 +223,6 @@ namespace CarDealer
         //15
         public static string GetCarsFromMakeBmw(CarDealerContext context)
         {
-
-
             CarsWithMakeDto[] carsWithMake = context.Cars
                 .Where(c => c.Make == "BMW")
                 .Select(c => new CarsWithMakeDto()
@@ -232,6 +236,29 @@ namespace CarDealer
                 .ToArray();
 
             return SerializeToXml(carsWithMake, "cars", true);
+        }
+
+        //16
+        public static string GetLocalSuppliers(CarDealerContext context)
+        {
+            var isImporter = context.Suppliers.Where(s => s.IsImporter).Select(s => s.Id).ToArray();
+
+            LocalSuppliersDto[] localSuppliers = context.Suppliers
+                .Where(s => isImporter.Contains(s.Id) == false)
+                .Select(c => new LocalSuppliersDto()
+                {
+                    Id = c.Id,
+                    Name = c.Name,
+                    PartsCount = c.Parts.Count
+                })
+                .ToArray();
+
+            return SerializeToXml(localSuppliers, "suppliers");
+        }
+
+        //17
+        public static string GetCarsWithTheirListOfParts(CarDealerContext context)
+        {
 
         }
 
