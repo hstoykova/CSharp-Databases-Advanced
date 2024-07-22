@@ -50,8 +50,7 @@
               "RelativeToolTip": "CarDealer\\DTOs\\Export\\CarsWithDistanceDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-20T11:56:19.913Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-20T11:56:19.913Z"
             },
             {
               "$type": "Document",
@@ -63,8 +62,7 @@
               "RelativeToolTip": "CarDealer\\DTOs\\Export\\SalesWithAppliedDiscountDto.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-20T11:39:28.663Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-20T11:39:28.663Z"
             },
             {
               "$type": "Document",
@@ -76,8 +74,7 @@
               "RelativeToolTip": "CarDealer\\DTOs\\Export\\TotalSalesByCustomerDto.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-20T08:24:02.568Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-20T08:24:02.568Z"
             },
             {
               "$type": "Document",
@@ -89,8 +86,7 @@
               "RelativeToolTip": "CarDealer\\DTOs\\Export\\ListOfPartsDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-20T05:48:02.492Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-20T05:48:02.492Z"
             },
             {
               "$type": "Document",
@@ -102,8 +98,7 @@
               "RelativeToolTip": "CarDealer\\DTOs\\Export\\CarsWithTheirListOfPartsDto.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAABVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-20T05:40:50.216Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-20T05:40:50.216Z"
             },
             {
               "$type": "Document",
@@ -115,8 +110,7 @@
               "RelativeToolTip": "CarDealer\\DTOs\\Export\\LocalSuppliersDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-20T05:21:22.649Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-20T05:21:22.649Z"
             },
             {
               "$type": "Document",
@@ -126,7 +120,7 @@
               "RelativeDocumentMoniker": "CarDealer\\StartUp.cs",
               "ToolTip": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\ExtensibleMarkupLanguageXML\\CarDealer\\CarDealer\\StartUp.cs",
               "RelativeToolTip": "CarDealer\\StartUp.cs",
-              "ViewState": "AQIAACUAAAAAAAAAAAAswEIBAAA4AAAA",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAswJsAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-17T16:47:43.89Z",
               "EditorCaption": ""
