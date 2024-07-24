@@ -7,6 +7,34 @@
       "RelativeMoniker": "D:0:0:{18488EE8-C545-489E-A587-DD442B107B10}|ProductShop\\ProductShop.csproj|solutionrelative:productshop\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{18488EE8-C545-489E-A587-DD442B107B10}|ProductShop\\ProductShop.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-databases-advanced\\extensiblemarkuplanguagexml\\productshop\\productshop\\dtos\\export\\exportusersproductsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18488EE8-C545-489E-A587-DD442B107B10}|ProductShop\\ProductShop.csproj|solutionrelative:productshop\\dtos\\export\\exportusersproductsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18488EE8-C545-489E-A587-DD442B107B10}|ProductShop\\ProductShop.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-databases-advanced\\extensiblemarkuplanguagexml\\productshop\\productshop\\dtos\\export\\exportsoldproductsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18488EE8-C545-489E-A587-DD442B107B10}|ProductShop\\ProductShop.csproj|solutionrelative:productshop\\dtos\\export\\exportsoldproductsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18488EE8-C545-489E-A587-DD442B107B10}|ProductShop\\ProductShop.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-databases-advanced\\extensiblemarkuplanguagexml\\productshop\\productshop\\dtos\\export\\exportuserswithproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18488EE8-C545-489E-A587-DD442B107B10}|ProductShop\\ProductShop.csproj|solutionrelative:productshop\\dtos\\export\\exportuserswithproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18488EE8-C545-489E-A587-DD442B107B10}|ProductShop\\ProductShop.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-databases-advanced\\extensiblemarkuplanguagexml\\productshop\\productshop\\dtos\\export\\exportcategoriesbyproductscountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18488EE8-C545-489E-A587-DD442B107B10}|ProductShop\\ProductShop.csproj|solutionrelative:productshop\\dtos\\export\\exportcategoriesbyproductscountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18488EE8-C545-489E-A587-DD442B107B10}|ProductShop\\ProductShop.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-databases-advanced\\extensiblemarkuplanguagexml\\productshop\\productshop\\dtos\\export\\exportproductsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18488EE8-C545-489E-A587-DD442B107B10}|ProductShop\\ProductShop.csproj|solutionrelative:productshop\\dtos\\export\\exportproductsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18488EE8-C545-489E-A587-DD442B107B10}|ProductShop\\ProductShop.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-databases-advanced\\extensiblemarkuplanguagexml\\productshop\\productshop\\dtos\\export\\exportuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18488EE8-C545-489E-A587-DD442B107B10}|ProductShop\\ProductShop.csproj|solutionrelative:productshop\\dtos\\export\\exportuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18488EE8-C545-489E-A587-DD442B107B10}|ProductShop\\ProductShop.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-databases-advanced\\extensiblemarkuplanguagexml\\productshop\\productshop\\dtos\\export\\exportproductsinrangedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18488EE8-C545-489E-A587-DD442B107B10}|ProductShop\\ProductShop.csproj|solutionrelative:productshop\\dtos\\export\\exportproductsinrangedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{18488EE8-C545-489E-A587-DD442B107B10}|ProductShop\\ProductShop.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-databases-advanced\\extensiblemarkuplanguagexml\\productshop\\productshop\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{18488EE8-C545-489E-A587-DD442B107B10}|ProductShop\\ProductShop.csproj|solutionrelative:productshop\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -22,8 +50,73 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExportUsersProductsDto.cs",
+              "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\ExtensibleMarkupLanguageXML\\ProductShop\\ProductShop\\DTOs\\Export\\ExportUsersProductsDto.cs",
+              "RelativeDocumentMoniker": "ProductShop\\DTOs\\Export\\ExportUsersProductsDto.cs",
+              "ToolTip": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\ExtensibleMarkupLanguageXML\\ProductShop\\ProductShop\\DTOs\\Export\\ExportUsersProductsDto.cs",
+              "RelativeToolTip": "ProductShop\\DTOs\\Export\\ExportUsersProductsDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T13:45:51.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExportSoldProductsDto.cs",
+              "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\ExtensibleMarkupLanguageXML\\ProductShop\\ProductShop\\DTOs\\Export\\ExportSoldProductsDto.cs",
+              "RelativeDocumentMoniker": "ProductShop\\DTOs\\Export\\ExportSoldProductsDto.cs",
+              "ToolTip": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\ExtensibleMarkupLanguageXML\\ProductShop\\ProductShop\\DTOs\\Export\\ExportSoldProductsDto.cs",
+              "RelativeToolTip": "ProductShop\\DTOs\\Export\\ExportSoldProductsDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T13:44:44.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExportUsersWithProducts.cs",
+              "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\ExtensibleMarkupLanguageXML\\ProductShop\\ProductShop\\DTOs\\Export\\ExportUsersWithProducts.cs",
+              "RelativeDocumentMoniker": "ProductShop\\DTOs\\Export\\ExportUsersWithProducts.cs",
+              "ToolTip": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\ExtensibleMarkupLanguageXML\\ProductShop\\ProductShop\\DTOs\\Export\\ExportUsersWithProducts.cs",
+              "RelativeToolTip": "ProductShop\\DTOs\\Export\\ExportUsersWithProducts.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T13:44:03.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExportCategoriesByProductsCountDto.cs",
+              "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\ExtensibleMarkupLanguageXML\\ProductShop\\ProductShop\\DTOs\\Export\\ExportCategoriesByProductsCountDto.cs",
+              "RelativeDocumentMoniker": "ProductShop\\DTOs\\Export\\ExportCategoriesByProductsCountDto.cs",
+              "ToolTip": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\ExtensibleMarkupLanguageXML\\ProductShop\\ProductShop\\DTOs\\Export\\ExportCategoriesByProductsCountDto.cs",
+              "RelativeToolTip": "ProductShop\\DTOs\\Export\\ExportCategoriesByProductsCountDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T13:43:11.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExportProductsDto.cs",
+              "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\ExtensibleMarkupLanguageXML\\ProductShop\\ProductShop\\DTOs\\Export\\ExportProductsDto.cs",
+              "RelativeDocumentMoniker": "ProductShop\\DTOs\\Export\\ExportProductsDto.cs",
+              "ToolTip": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\ExtensibleMarkupLanguageXML\\ProductShop\\ProductShop\\DTOs\\Export\\ExportProductsDto.cs",
+              "RelativeToolTip": "ProductShop\\DTOs\\Export\\ExportProductsDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T13:42:17.398Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -32,14 +125,40 @@
               "RelativeDocumentMoniker": "ProductShop\\StartUp.cs",
               "ToolTip": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\ExtensibleMarkupLanguageXML\\ProductShop\\ProductShop\\StartUp.cs",
               "RelativeToolTip": "ProductShop\\StartUp.cs",
-              "ViewState": "AQIAAFIAAAAAAAAAAAAqwIAAAAA0AAAA",
+              "ViewState": "AQIAAEkAAAAAAAAAAAA7wPgAAABHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-22T08:19:51.391Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
+              "Title": "ExportUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\ExtensibleMarkupLanguageXML\\ProductShop\\ProductShop\\DTOs\\Export\\ExportUserDto.cs",
+              "RelativeDocumentMoniker": "ProductShop\\DTOs\\Export\\ExportUserDto.cs",
+              "ToolTip": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\ExtensibleMarkupLanguageXML\\ProductShop\\ProductShop\\DTOs\\Export\\ExportUserDto.cs",
+              "RelativeToolTip": "ProductShop\\DTOs\\Export\\ExportUserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T13:41:22.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ExportProductsInRangeDto.cs",
+              "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\ExtensibleMarkupLanguageXML\\ProductShop\\ProductShop\\DTOs\\Export\\ExportProductsInRangeDto.cs",
+              "RelativeDocumentMoniker": "ProductShop\\DTOs\\Export\\ExportProductsInRangeDto.cs",
+              "ToolTip": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\ExtensibleMarkupLanguageXML\\ProductShop\\ProductShop\\DTOs\\Export\\ExportProductsInRangeDto.cs",
+              "RelativeToolTip": "ProductShop\\DTOs\\Export\\ExportProductsInRangeDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T13:37:41.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "CategoriesAndProductsDto.cs",
               "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\ExtensibleMarkupLanguageXML\\ProductShop\\ProductShop\\DTOs\\Import\\CategoriesAndProductsDto.cs",
               "RelativeDocumentMoniker": "ProductShop\\DTOs\\Import\\CategoriesAndProductsDto.cs",
@@ -47,12 +166,11 @@
               "RelativeToolTip": "ProductShop\\DTOs\\Import\\CategoriesAndProductsDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T08:18:30.695Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-22T08:18:30.695Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\ExtensibleMarkupLanguageXML\\ProductShop\\ProductShop\\Models\\Category.cs",
               "RelativeDocumentMoniker": "ProductShop\\Models\\Category.cs",
@@ -60,8 +178,7 @@
               "RelativeToolTip": "ProductShop\\Models\\Category.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T08:00:37.619Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-22T08:00:37.619Z"
             }
           ]
         }
