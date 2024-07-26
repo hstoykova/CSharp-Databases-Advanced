@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\Exams\\Invoices-11April2023\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\Exams\\Invoices-11April2023\\Invoices\\Migrations\\20240726073747_create_db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Invoices\\Migrations\\20240726073747_create_db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010E3105-B89D-4AD8-A1E0-4548539C3DC2}|Invoices\\Invoices.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-databases-advanced\\exams\\invoices-11april2023\\invoices\\data\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010E3105-B89D-4AD8-A1E0-4548539C3DC2}|Invoices\\Invoices.csproj|solutionrelative:invoices\\data\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010E3105-B89D-4AD8-A1E0-4548539C3DC2}|Invoices\\Invoices.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-databases-advanced\\exams\\invoices-11april2023\\invoices\\data\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010E3105-B89D-4AD8-A1E0-4548539C3DC2}|Invoices\\Invoices.csproj|solutionrelative:invoices\\data\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010E3105-B89D-4AD8-A1E0-4548539C3DC2}|Invoices\\Invoices.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-databases-advanced\\exams\\invoices-11april2023\\invoices\\data\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010E3105-B89D-4AD8-A1E0-4548539C3DC2}|Invoices\\Invoices.csproj|solutionrelative:invoices\\data\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010E3105-B89D-4AD8-A1E0-4548539C3DC2}|Invoices\\Invoices.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-databases-advanced\\exams\\invoices-11april2023\\invoices\\data\\models\\productclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010E3105-B89D-4AD8-A1E0-4548539C3DC2}|Invoices\\Invoices.csproj|solutionrelative:invoices\\data\\models\\productclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010E3105-B89D-4AD8-A1E0-4548539C3DC2}|Invoices\\Invoices.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-databases-advanced\\exams\\invoices-11april2023\\invoices\\data\\models\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010E3105-B89D-4AD8-A1E0-4548539C3DC2}|Invoices\\Invoices.csproj|solutionrelative:invoices\\data\\models\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010E3105-B89D-4AD8-A1E0-4548539C3DC2}|Invoices\\Invoices.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-databases-advanced\\exams\\invoices-11april2023\\invoices\\invoices.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{010E3105-B89D-4AD8-A1E0-4548539C3DC2}|Invoices\\Invoices.csproj|solutionrelative:invoices\\invoices.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010E3105-B89D-4AD8-A1E0-4548539C3DC2}|Invoices\\Invoices.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-databases-advanced\\exams\\invoices-11april2023\\invoices\\data\\models\\enums\\currencytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010E3105-B89D-4AD8-A1E0-4548539C3DC2}|Invoices\\Invoices.csproj|solutionrelative:invoices\\data\\models\\enums\\currencytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240726073747_create_db.cs",
+              "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\Exams\\Invoices-11April2023\\Invoices\\Migrations\\20240726073747_create_db.cs",
+              "RelativeDocumentMoniker": "Invoices\\Migrations\\20240726073747_create_db.cs",
+              "ToolTip": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\Exams\\Invoices-11April2023\\Invoices\\Migrations\\20240726073747_create_db.cs",
+              "RelativeToolTip": "Invoices\\Migrations\\20240726073747_create_db.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T07:37:47.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\Exams\\Invoices-11April2023\\Invoices\\Data\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "Invoices\\Data\\Models\\Client.cs",
+              "ToolTip": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\Exams\\Invoices-11April2023\\Invoices\\Data\\Models\\Client.cs",
+              "RelativeToolTip": "Invoices\\Data\\Models\\Client.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T07:23:09.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Invoices",
+              "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\Exams\\Invoices-11April2023\\Invoices\\Invoices.csproj",
+              "RelativeDocumentMoniker": "Invoices\\Invoices.csproj",
+              "ToolTip": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\Exams\\Invoices-11April2023\\Invoices\\Invoices.csproj",
+              "RelativeToolTip": "Invoices\\Invoices.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-26T07:26:59.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\Exams\\Invoices-11April2023\\Invoices\\Data\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Invoices\\Data\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\Exams\\Invoices-11April2023\\Invoices\\Data\\Models\\Product.cs",
+              "RelativeToolTip": "Invoices\\Data\\Models\\Product.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T07:20:41.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductClient.cs",
+              "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\Exams\\Invoices-11April2023\\Invoices\\Data\\Models\\ProductClient.cs",
+              "RelativeDocumentMoniker": "Invoices\\Data\\Models\\ProductClient.cs",
+              "ToolTip": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\Exams\\Invoices-11April2023\\Invoices\\Data\\Models\\ProductClient.cs",
+              "RelativeToolTip": "Invoices\\Data\\Models\\ProductClient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T06:41:02.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\Exams\\Invoices-11April2023\\Invoices\\Data\\Models\\Address.cs",
+              "RelativeDocumentMoniker": "Invoices\\Data\\Models\\Address.cs",
+              "ToolTip": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\Exams\\Invoices-11April2023\\Invoices\\Data\\Models\\Address.cs",
+              "RelativeToolTip": "Invoices\\Data\\Models\\Address.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBwAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T06:29:26.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CurrencyType.cs",
+              "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\Exams\\Invoices-11April2023\\Invoices\\Data\\Models\\Enums\\CurrencyType.cs",
+              "RelativeDocumentMoniker": "Invoices\\Data\\Models\\Enums\\CurrencyType.cs",
+              "ToolTip": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\Exams\\Invoices-11April2023\\Invoices\\Data\\Models\\Enums\\CurrencyType.cs",
+              "RelativeToolTip": "Invoices\\Data\\Models\\Enums\\CurrencyType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T06:35:37.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Invoice.cs",
+              "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\Exams\\Invoices-11April2023\\Invoices\\Data\\Models\\Invoice.cs",
+              "RelativeDocumentMoniker": "Invoices\\Data\\Models\\Invoice.cs",
+              "ToolTip": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\Exams\\Invoices-11April2023\\Invoices\\Data\\Models\\Invoice.cs",
+              "RelativeToolTip": "Invoices\\Data\\Models\\Invoice.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T06:33:18.436Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
