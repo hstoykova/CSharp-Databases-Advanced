@@ -13,7 +13,7 @@ namespace Cadastre.DataProcessor.ImportDtos
         public string PropertyIdentifier { get; set; }
 
         [XmlElement("Area")]
-        //[Range(0, int.MaxValue)]    
+        [Range(0, int.MaxValue)]
         [Required]
         public int Area { get; set; } //possible mistake here for the uint
 

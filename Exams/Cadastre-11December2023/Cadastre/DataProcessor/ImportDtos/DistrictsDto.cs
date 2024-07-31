@@ -24,7 +24,7 @@ namespace Cadastre.DataProcessor.ImportDtos
         [XmlElement("PostalCode")]
         [MinLength(8)]
         [MaxLength(8)] //possible mistake here
-        //[RegularExpression("[A-Z]{2}-[0-9]{5}")]
+        [RegularExpression(@"[A-Z]{2}-[0-9]{5}")]
         [Required]
         public string PostalCode { get; set; }
 
