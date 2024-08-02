@@ -3,32 +3,51 @@
   "WorkspaceRootPath": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\Exams\\Medicines-02December2023\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-databases-advanced\\exams\\medicines-02december2023\\medicines\\dataprocessor\\serializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|solutionrelative:medicines\\dataprocessor\\serializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-databases-advanced\\exams\\medicines-02december2023\\medicines\\dataprocessor\\importdtos\\patientsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|solutionrelative:medicines\\dataprocessor\\importdtos\\patientsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-databases-advanced\\exams\\medicines-02december2023\\medicines\\data\\models\\enums\\agegroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|solutionrelative:medicines\\data\\models\\enums\\agegroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-databases-advanced\\exams\\medicines-02december2023\\medicines\\dataprocessor\\deserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|solutionrelative:medicines\\dataprocessor\\deserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hstoykova5\\AppData\\Local\\Temp\\2252f9e1-71b2-4489-93c6-51a4c25c2237_01. Model Definition_Author Solution (4).zip.237\\DataProcessor\\Serializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-databases-advanced\\exams\\medicines-02december2023\\medicines\\data\\models\\enums\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|solutionrelative:medicines\\data\\models\\enums\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-databases-advanced\\exams\\medicines-02december2023\\medicines\\dataprocessor\\xmlhelper\\xmlserializationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|solutionrelative:medicines\\dataprocessor\\xmlhelper\\xmlserializationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-databases-advanced\\exams\\medicines-02december2023\\medicines\\dataprocessor\\deserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|solutionrelative:medicines\\dataprocessor\\deserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-databases-advanced\\exams\\medicines-02december2023\\medicines\\data\\models\\medicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|solutionrelative:medicines\\data\\models\\medicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-databases-advanced\\exams\\medicines-02december2023\\medicines\\data\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|solutionrelative:medicines\\data\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-databases-advanced\\exams\\medicines-02december2023\\medicines\\data\\models\\patientmedicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|solutionrelative:medicines\\data\\models\\patientmedicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-databases-advanced\\exams\\medicines-02december2023\\medicines\\data\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|solutionrelative:medicines\\data\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-databases-advanced\\exams\\medicines-02december2023\\medicines\\data\\models\\pharmacy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|solutionrelative:medicines\\data\\models\\pharmacy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-databases-advanced\\exams\\medicines-02december2023\\medicines\\data\\models\\enums\\agegroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|solutionrelative:medicines\\data\\models\\enums\\agegroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-databases-advanced\\exams\\medicines-02december2023\\medicines\\data\\models\\enums\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|solutionrelative:medicines\\data\\models\\enums\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-databases-advanced\\exams\\medicines-02december2023\\medicines\\dataprocessor\\xmlhelper\\xmlserializationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|solutionrelative:medicines\\dataprocessor\\xmlhelper\\xmlserializationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-databases-advanced\\exams\\medicines-02december2023\\medicines\\dataprocessor\\importdtos\\pharmaciesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -43,23 +62,11 @@
       "RelativeMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|solutionrelative:medicines\\data\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-databases-advanced\\exams\\medicines-02december2023\\medicines\\data\\models\\pharmacy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|solutionrelative:medicines\\data\\models\\pharmacy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-databases-advanced\\exams\\medicines-02december2023\\medicines\\data\\models\\medicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|solutionrelative:medicines\\data\\models\\medicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hstoykova5\\AppData\\Local\\Temp\\a65ba79e-bfb4-48be-bd54-80fb28332fe1_01. Model Definition_Author Solution (3).zip.fe1\\DataProcessor\\Deserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-databases-advanced\\exams\\medicines-02december2023\\medicines\\dataprocessor\\importdtos\\medicinedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|solutionrelative:medicines\\dataprocessor\\importdtos\\medicinedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-databases-advanced\\exams\\medicines-02december2023\\medicines\\data\\models\\enums\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|solutionrelative:medicines\\data\\models\\enums\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -69,45 +76,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Serializer.cs",
+              "DocumentMoniker": "C:\\Users\\hstoykova5\\AppData\\Local\\Temp\\2252f9e1-71b2-4489-93c6-51a4c25c2237_01. Model Definition_Author Solution (4).zip.237\\DataProcessor\\Serializer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\2252f9e1-71b2-4489-93c6-51a4c25c2237_01. Model Definition_Author Solution (4).zip.237\\DataProcessor\\Serializer.cs",
+              "ToolTip": "C:\\Users\\hstoykova5\\AppData\\Local\\Temp\\2252f9e1-71b2-4489-93c6-51a4c25c2237_01. Model Definition_Author Solution (4).zip.237\\DataProcessor\\Serializer.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\2252f9e1-71b2-4489-93c6-51a4c25c2237_01. Model Definition_Author Solution (4).zip.237\\DataProcessor\\Serializer.cs [Read Only]",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACEAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T11:34:45.444Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Serializer.cs",
+              "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\Exams\\Medicines-02December2023\\Medicines\\DataProcessor\\Serializer.cs",
+              "RelativeDocumentMoniker": "Medicines\\DataProcessor\\Serializer.cs",
+              "ToolTip": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\Exams\\Medicines-02December2023\\Medicines\\DataProcessor\\Serializer.cs",
+              "RelativeToolTip": "Medicines\\DataProcessor\\Serializer.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwCcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T10:20:08.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "PatientsDto.cs",
               "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\Exams\\Medicines-02December2023\\Medicines\\DataProcessor\\ImportDtos\\PatientsDto.cs",
               "RelativeDocumentMoniker": "Medicines\\DataProcessor\\ImportDtos\\PatientsDto.cs",
               "ToolTip": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\Exams\\Medicines-02December2023\\Medicines\\DataProcessor\\ImportDtos\\PatientsDto.cs",
               "RelativeToolTip": "Medicines\\DataProcessor\\ImportDtos\\PatientsDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAATAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-01T18:07:02.293Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Deserializer.cs",
-              "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\Exams\\Medicines-02December2023\\Medicines\\DataProcessor\\Deserializer.cs",
-              "RelativeDocumentMoniker": "Medicines\\DataProcessor\\Deserializer.cs",
-              "ToolTip": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\Exams\\Medicines-02December2023\\Medicines\\DataProcessor\\Deserializer.cs",
-              "RelativeToolTip": "Medicines\\DataProcessor\\Deserializer.cs",
-              "ViewState": "AQIAADQAAAAAAAAAAAAQwDwAAAB6AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T11:53:31.521Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "MedicinesContext.cs",
-              "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\Exams\\Medicines-02December2023\\Medicines\\Data\\MedicinesContext.cs",
-              "RelativeDocumentMoniker": "Medicines\\Data\\MedicinesContext.cs",
-              "ToolTip": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\Exams\\Medicines-02December2023\\Medicines\\Data\\MedicinesContext.cs",
-              "RelativeToolTip": "Medicines\\Data\\MedicinesContext.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAACAAAABWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T09:22:58.723Z",
               "EditorCaption": ""
             },
             {
@@ -125,19 +132,6 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Configuration.cs",
-              "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\Exams\\Medicines-02December2023\\Medicines\\Data\\Configuration.cs",
-              "RelativeDocumentMoniker": "Medicines\\Data\\Configuration.cs",
-              "ToolTip": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\Exams\\Medicines-02December2023\\Medicines\\Data\\Configuration.cs",
-              "RelativeToolTip": "Medicines\\Data\\Configuration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAB4AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T09:06:20.998Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Gender.cs",
               "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\Exams\\Medicines-02December2023\\Medicines\\Data\\Models\\Enums\\Gender.cs",
@@ -151,7 +145,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "AgeGroup.cs",
               "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\Exams\\Medicines-02December2023\\Medicines\\Data\\Models\\Enums\\AgeGroup.cs",
               "RelativeDocumentMoniker": "Medicines\\Data\\Models\\Enums\\AgeGroup.cs",
@@ -164,7 +158,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "PatientMedicine.cs",
               "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\Exams\\Medicines-02December2023\\Medicines\\Data\\Models\\PatientMedicine.cs",
               "RelativeDocumentMoniker": "Medicines\\Data\\Models\\PatientMedicine.cs",
@@ -177,7 +171,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "XmlSerializationHelper.cs",
               "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\Exams\\Medicines-02December2023\\Medicines\\DataProcessor\\XmlHelper\\XmlSerializationHelper.cs",
               "RelativeDocumentMoniker": "Medicines\\DataProcessor\\XmlHelper\\XmlSerializationHelper.cs",
@@ -185,12 +179,11 @@
               "RelativeToolTip": "Medicines\\DataProcessor\\XmlHelper\\XmlSerializationHelper.cs",
               "ViewState": "AQIAABEAAAAAAAAAAAAAwAsAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T11:52:58.755Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-01T11:52:58.755Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 8,
               "Title": "Pharmacy.cs",
               "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\Exams\\Medicines-02December2023\\Medicines\\Data\\Models\\Pharmacy.cs",
               "RelativeDocumentMoniker": "Medicines\\Data\\Models\\Pharmacy.cs",
@@ -203,20 +196,70 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 5,
               "Title": "Medicine.cs",
               "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\Exams\\Medicines-02December2023\\Medicines\\Data\\Models\\Medicine.cs",
               "RelativeDocumentMoniker": "Medicines\\Data\\Models\\Medicine.cs",
               "ToolTip": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\Exams\\Medicines-02December2023\\Medicines\\Data\\Models\\Medicine.cs",
               "RelativeToolTip": "Medicines\\Data\\Models\\Medicine.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAgwCYAAAATAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAgwBwAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-01T09:11:15.293Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
+              "Title": "MedicinesContext.cs",
+              "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\Exams\\Medicines-02December2023\\Medicines\\Data\\MedicinesContext.cs",
+              "RelativeDocumentMoniker": "Medicines\\Data\\MedicinesContext.cs",
+              "ToolTip": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\Exams\\Medicines-02December2023\\Medicines\\Data\\MedicinesContext.cs",
+              "RelativeToolTip": "Medicines\\Data\\MedicinesContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACAAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T09:22:58.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Deserializer.cs",
+              "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\Exams\\Medicines-02December2023\\Medicines\\DataProcessor\\Deserializer.cs",
+              "RelativeDocumentMoniker": "Medicines\\DataProcessor\\Deserializer.cs",
+              "ToolTip": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\Exams\\Medicines-02December2023\\Medicines\\DataProcessor\\Deserializer.cs",
+              "RelativeToolTip": "Medicines\\DataProcessor\\Deserializer.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwCcAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T11:53:31.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\Exams\\Medicines-02December2023\\Medicines\\Data\\Configuration.cs",
+              "RelativeDocumentMoniker": "Medicines\\Data\\Configuration.cs",
+              "ToolTip": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\Exams\\Medicines-02December2023\\Medicines\\Data\\Configuration.cs",
+              "RelativeToolTip": "Medicines\\Data\\Configuration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAB4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T09:06:20.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\Exams\\Medicines-02December2023\\Medicines\\Data\\Models\\Enums\\Category.cs",
+              "RelativeDocumentMoniker": "Medicines\\Data\\Models\\Enums\\Category.cs",
+              "ToolTip": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\Exams\\Medicines-02December2023\\Medicines\\Data\\Models\\Enums\\Category.cs",
+              "RelativeToolTip": "Medicines\\Data\\Models\\Enums\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T09:13:11.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "Deserializer.cs",
               "DocumentMoniker": "C:\\Users\\hstoykova5\\AppData\\Local\\Temp\\a65ba79e-bfb4-48be-bd54-80fb28332fe1_01. Model Definition_Author Solution (3).zip.fe1\\DataProcessor\\Deserializer.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\a65ba79e-bfb4-48be-bd54-80fb28332fe1_01. Model Definition_Author Solution (3).zip.fe1\\DataProcessor\\Deserializer.cs",
@@ -229,7 +272,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "PharmaciesDto.cs",
               "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\Exams\\Medicines-02December2023\\Medicines\\DataProcessor\\ImportDtos\\PharmaciesDto.cs",
               "RelativeDocumentMoniker": "Medicines\\DataProcessor\\ImportDtos\\PharmaciesDto.cs",
@@ -237,12 +280,11 @@
               "RelativeToolTip": "Medicines\\DataProcessor\\ImportDtos\\PharmaciesDto.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T11:28:48.438Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-01T11:28:48.438Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "MedicineDto.cs",
               "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\Exams\\Medicines-02December2023\\Medicines\\DataProcessor\\ImportDtos\\MedicineDto.cs",
               "RelativeDocumentMoniker": "Medicines\\DataProcessor\\ImportDtos\\MedicineDto.cs",
@@ -250,21 +292,7 @@
               "RelativeToolTip": "Medicines\\DataProcessor\\ImportDtos\\MedicineDto.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAAACUAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T11:33:40.175Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\Exams\\Medicines-02December2023\\Medicines\\Data\\Models\\Enums\\Category.cs",
-              "RelativeDocumentMoniker": "Medicines\\Data\\Models\\Enums\\Category.cs",
-              "ToolTip": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\Exams\\Medicines-02December2023\\Medicines\\Data\\Models\\Enums\\Category.cs",
-              "RelativeToolTip": "Medicines\\Data\\Models\\Enums\\Category.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T09:13:11.968Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-01T11:33:40.175Z"
             }
           ]
         }
