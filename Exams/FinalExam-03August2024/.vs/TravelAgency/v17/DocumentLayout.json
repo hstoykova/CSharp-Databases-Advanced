@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\Exams\\FinalExam-03August2024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B51875C-9FFB-4045-9550-83CB9149833A}|TravelAgency\\TravelAgency.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-databases-advanced\\exams\\finalexam-03august2024\\travelagency\\dataprocessor\\serializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B51875C-9FFB-4045-9550-83CB9149833A}|TravelAgency\\TravelAgency.csproj|solutionrelative:travelagency\\dataprocessor\\serializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B51875C-9FFB-4045-9550-83CB9149833A}|TravelAgency\\TravelAgency.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-databases-advanced\\exams\\finalexam-03august2024\\travelagency\\dataprocessor\\exportdtos\\guidesspeakingspanishdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B51875C-9FFB-4045-9550-83CB9149833A}|TravelAgency\\TravelAgency.csproj|solutionrelative:travelagency\\dataprocessor\\exportdtos\\guidesspeakingspanishdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B51875C-9FFB-4045-9550-83CB9149833A}|TravelAgency\\TravelAgency.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-databases-advanced\\exams\\finalexam-03august2024\\travelagency\\dataprocessor\\xmlhelper\\xmlserializationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B51875C-9FFB-4045-9550-83CB9149833A}|TravelAgency\\TravelAgency.csproj|solutionrelative:travelagency\\dataprocessor\\xmlhelper\\xmlserializationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B51875C-9FFB-4045-9550-83CB9149833A}|TravelAgency\\TravelAgency.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-databases-advanced\\exams\\finalexam-03august2024\\travelagency\\dataprocessor\\deserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B51875C-9FFB-4045-9550-83CB9149833A}|TravelAgency\\TravelAgency.csproj|solutionrelative:travelagency\\dataprocessor\\deserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B51875C-9FFB-4045-9550-83CB9149833A}|TravelAgency\\TravelAgency.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-databases-advanced\\exams\\finalexam-03august2024\\travelagency\\data\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B51875C-9FFB-4045-9550-83CB9149833A}|TravelAgency\\TravelAgency.csproj|solutionrelative:travelagency\\data\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B51875C-9FFB-4045-9550-83CB9149833A}|TravelAgency\\TravelAgency.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-databases-advanced\\exams\\finalexam-03august2024\\travelagency\\data\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B51875C-9FFB-4045-9550-83CB9149833A}|TravelAgency\\TravelAgency.csproj|solutionrelative:travelagency\\data\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B51875C-9FFB-4045-9550-83CB9149833A}|TravelAgency\\TravelAgency.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-databases-advanced\\exams\\finalexam-03august2024\\travelagency\\dataprocessor\\importdtos\\bookingsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B51875C-9FFB-4045-9550-83CB9149833A}|TravelAgency\\TravelAgency.csproj|solutionrelative:travelagency\\dataprocessor\\importdtos\\bookingsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B51875C-9FFB-4045-9550-83CB9149833A}|TravelAgency\\TravelAgency.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-databases-advanced\\exams\\finalexam-03august2024\\travelagency\\dataprocessor\\importdtos\\customersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B51875C-9FFB-4045-9550-83CB9149833A}|TravelAgency\\TravelAgency.csproj|solutionrelative:travelagency\\dataprocessor\\importdtos\\customersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B51875C-9FFB-4045-9550-83CB9149833A}|TravelAgency\\TravelAgency.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-databases-advanced\\exams\\finalexam-03august2024\\travelagency\\data\\travelagencycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B51875C-9FFB-4045-9550-83CB9149833A}|TravelAgency\\TravelAgency.csproj|solutionrelative:travelagency\\data\\travelagencycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B51875C-9FFB-4045-9550-83CB9149833A}|TravelAgency\\TravelAgency.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-databases-advanced\\exams\\finalexam-03august2024\\travelagency\\data\\models\\tourpackage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B51875C-9FFB-4045-9550-83CB9149833A}|TravelAgency\\TravelAgency.csproj|solutionrelative:travelagency\\data\\models\\tourpackage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B51875C-9FFB-4045-9550-83CB9149833A}|TravelAgency\\TravelAgency.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-databases-advanced\\exams\\finalexam-03august2024\\travelagency\\data\\models\\guide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B51875C-9FFB-4045-9550-83CB9149833A}|TravelAgency\\TravelAgency.csproj|solutionrelative:travelagency\\data\\models\\guide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B51875C-9FFB-4045-9550-83CB9149833A}|TravelAgency\\TravelAgency.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-databases-advanced\\exams\\finalexam-03august2024\\travelagency\\data\\models\\tourpackageguide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B51875C-9FFB-4045-9550-83CB9149833A}|TravelAgency\\TravelAgency.csproj|solutionrelative:travelagency\\data\\models\\tourpackageguide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B51875C-9FFB-4045-9550-83CB9149833A}|TravelAgency\\TravelAgency.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-databases-advanced\\exams\\finalexam-03august2024\\travelagency\\travelagency.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6B51875C-9FFB-4045-9550-83CB9149833A}|TravelAgency\\TravelAgency.csproj|solutionrelative:travelagency\\travelagency.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B51875C-9FFB-4045-9550-83CB9149833A}|TravelAgency\\TravelAgency.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-databases-advanced\\exams\\finalexam-03august2024\\travelagency\\data\\models\\enums\\language.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B51875C-9FFB-4045-9550-83CB9149833A}|TravelAgency\\TravelAgency.csproj|solutionrelative:travelagency\\data\\models\\enums\\language.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Serializer.cs",
+              "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\Exams\\FinalExam-03August2024\\TravelAgency\\DataProcessor\\Serializer.cs",
+              "RelativeDocumentMoniker": "TravelAgency\\DataProcessor\\Serializer.cs",
+              "ToolTip": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\Exams\\FinalExam-03August2024\\TravelAgency\\DataProcessor\\Serializer.cs",
+              "RelativeToolTip": "TravelAgency\\DataProcessor\\Serializer.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAQwCkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T07:22:35.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "XmlSerializationHelper.cs",
+              "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\Exams\\FinalExam-03August2024\\TravelAgency\\DataProcessor\\XmlHelper\\XmlSerializationHelper.cs",
+              "RelativeDocumentMoniker": "TravelAgency\\DataProcessor\\XmlHelper\\XmlSerializationHelper.cs",
+              "ToolTip": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\Exams\\FinalExam-03August2024\\TravelAgency\\DataProcessor\\XmlHelper\\XmlSerializationHelper.cs",
+              "RelativeToolTip": "TravelAgency\\DataProcessor\\XmlHelper\\XmlSerializationHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T07:23:15.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GuidesSpeakingSpanishDto.cs",
+              "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\Exams\\FinalExam-03August2024\\TravelAgency\\DataProcessor\\ExportDtos\\GuidesSpeakingSpanishDto.cs",
+              "RelativeDocumentMoniker": "TravelAgency\\DataProcessor\\ExportDtos\\GuidesSpeakingSpanishDto.cs",
+              "ToolTip": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\Exams\\FinalExam-03August2024\\TravelAgency\\DataProcessor\\ExportDtos\\GuidesSpeakingSpanishDto.cs",
+              "RelativeToolTip": "TravelAgency\\DataProcessor\\ExportDtos\\GuidesSpeakingSpanishDto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T07:18:03.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookingsDto.cs",
+              "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\Exams\\FinalExam-03August2024\\TravelAgency\\DataProcessor\\ImportDtos\\BookingsDto.cs",
+              "RelativeDocumentMoniker": "TravelAgency\\DataProcessor\\ImportDtos\\BookingsDto.cs",
+              "ToolTip": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\Exams\\FinalExam-03August2024\\TravelAgency\\DataProcessor\\ImportDtos\\BookingsDto.cs",
+              "RelativeToolTip": "TravelAgency\\DataProcessor\\ImportDtos\\BookingsDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T06:58:16.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Deserializer.cs",
+              "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\Exams\\FinalExam-03August2024\\TravelAgency\\DataProcessor\\Deserializer.cs",
+              "RelativeDocumentMoniker": "TravelAgency\\DataProcessor\\Deserializer.cs",
+              "ToolTip": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\Exams\\FinalExam-03August2024\\TravelAgency\\DataProcessor\\Deserializer.cs",
+              "RelativeToolTip": "TravelAgency\\DataProcessor\\Deserializer.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAQwHMAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T06:37:06.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomersDto.cs",
+              "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\Exams\\FinalExam-03August2024\\TravelAgency\\DataProcessor\\ImportDtos\\CustomersDto.cs",
+              "RelativeDocumentMoniker": "TravelAgency\\DataProcessor\\ImportDtos\\CustomersDto.cs",
+              "ToolTip": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\Exams\\FinalExam-03August2024\\TravelAgency\\DataProcessor\\ImportDtos\\CustomersDto.cs",
+              "RelativeToolTip": "TravelAgency\\DataProcessor\\ImportDtos\\CustomersDto.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T06:31:05.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TravelAgency",
+              "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\Exams\\FinalExam-03August2024\\TravelAgency\\TravelAgency.csproj",
+              "RelativeDocumentMoniker": "TravelAgency\\TravelAgency.csproj",
+              "ToolTip": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\Exams\\FinalExam-03August2024\\TravelAgency\\TravelAgency.csproj",
+              "RelativeToolTip": "TravelAgency\\TravelAgency.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-03T06:26:52.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TravelAgencyContext.cs",
+              "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\Exams\\FinalExam-03August2024\\TravelAgency\\Data\\TravelAgencyContext.cs",
+              "RelativeDocumentMoniker": "TravelAgency\\Data\\TravelAgencyContext.cs",
+              "ToolTip": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\Exams\\FinalExam-03August2024\\TravelAgency\\Data\\TravelAgencyContext.cs",
+              "RelativeToolTip": "TravelAgency\\Data\\TravelAgencyContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T06:12:32.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TourPackageGuide.cs",
+              "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\Exams\\FinalExam-03August2024\\TravelAgency\\Data\\Models\\TourPackageGuide.cs",
+              "RelativeDocumentMoniker": "TravelAgency\\Data\\Models\\TourPackageGuide.cs",
+              "ToolTip": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\Exams\\FinalExam-03August2024\\TravelAgency\\Data\\Models\\TourPackageGuide.cs",
+              "RelativeToolTip": "TravelAgency\\Data\\Models\\TourPackageGuide.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T06:10:36.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TourPackage.cs",
+              "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\Exams\\FinalExam-03August2024\\TravelAgency\\Data\\Models\\TourPackage.cs",
+              "RelativeDocumentMoniker": "TravelAgency\\Data\\Models\\TourPackage.cs",
+              "ToolTip": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\Exams\\FinalExam-03August2024\\TravelAgency\\Data\\Models\\TourPackage.cs",
+              "RelativeToolTip": "TravelAgency\\Data\\Models\\TourPackage.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T06:05:54.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Language.cs",
+              "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\Exams\\FinalExam-03August2024\\TravelAgency\\Data\\Models\\Enums\\Language.cs",
+              "RelativeDocumentMoniker": "TravelAgency\\Data\\Models\\Enums\\Language.cs",
+              "ToolTip": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\Exams\\FinalExam-03August2024\\TravelAgency\\Data\\Models\\Enums\\Language.cs",
+              "RelativeToolTip": "TravelAgency\\Data\\Models\\Enums\\Language.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T06:04:57.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Guide.cs",
+              "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\Exams\\FinalExam-03August2024\\TravelAgency\\Data\\Models\\Guide.cs",
+              "RelativeDocumentMoniker": "TravelAgency\\Data\\Models\\Guide.cs",
+              "ToolTip": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\Exams\\FinalExam-03August2024\\TravelAgency\\Data\\Models\\Guide.cs",
+              "RelativeToolTip": "TravelAgency\\Data\\Models\\Guide.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T06:03:56.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\Exams\\FinalExam-03August2024\\TravelAgency\\Data\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "TravelAgency\\Data\\Models\\Booking.cs",
+              "ToolTip": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\Exams\\FinalExam-03August2024\\TravelAgency\\Data\\Models\\Booking.cs",
+              "RelativeToolTip": "TravelAgency\\Data\\Models\\Booking.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T06:02:11.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\Exams\\FinalExam-03August2024\\TravelAgency\\Data\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "TravelAgency\\Data\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Databases-Advanced\\Exams\\FinalExam-03August2024\\TravelAgency\\Data\\Models\\Customer.cs",
+              "RelativeToolTip": "TravelAgency\\Data\\Models\\Customer.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T05:59:50.239Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
